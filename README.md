@@ -23,3 +23,15 @@ Running main.py file consists of following functionalities in order,
 1) User Login : User is required to enter his email Id and password. If successful the program will stop, else User will be asked to enter into Forget password or Registration page.
 2) Forget Password : User if not sure about password or forgot, user can retrieve it from db.csv using his registered email id.
 3) Registration: If you are a new user, then user can create a new account by entering credentials like email ID and Password.
+
+### Gallery:
+
+#### User Forgot Password and Login
+<br>
+
+![forgotPassword](https://user-images.githubusercontent.com/49028941/154853127-6de9a32d-30ef-4b35-ace5-f5cadaa267f1.jpg)
+
+#### User Registration 
+<br>
+
+![registration](https://user-images.githubusercontent.com/49028941/154853132-7d9e293c-abf0-47a2-87f0-cd7b09cae55a.jpg)

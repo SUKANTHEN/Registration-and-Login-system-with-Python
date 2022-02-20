@@ -16,7 +16,11 @@ File Handling, Regex, and Dataframe operations
 
 ### How to Run:
 ```
+# For Linux
 python3 run main.py
+
+# For Windows
+python main.py
 ```
 Running main.py file consists of following functionalities in order,
 
